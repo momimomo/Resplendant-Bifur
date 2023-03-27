@@ -60,3 +60,8 @@ Run with `node main.js`
 
 ## Note
 Most important of all, have fun checking this repo out!
+
+## License
+None! 
+This is for local exercise purposes only. 
+Use at your own risk.
